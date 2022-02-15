@@ -27,7 +27,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
 - <b>Web services</b> : WSDL, SOAP, JSON0
 - <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
-- Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
+- <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
 #### Mobile Application Development
 - Android, iOS, iPad (Java, Kotlin, Swift, Objective-C)
 - Flutter/Dart
