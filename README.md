@@ -18,6 +18,17 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 
 #### Website Development
+- <b>Front-end</b> : HTML5, CSS3, XML, Bootstrap, JavaScript, jQuery
+- <b>Back-end</b> : Laravel, Codeigniter, Symphony, CakePHP
+- <b>Custom APIs Development</b> : JavaScript, Angular, Vue, & Node.js (Restful, & SOAP)
+- <b>JS Frameworks</b> : Angular, Vue, React, Express, Backbone, & Node
+- <b>Database</b> : MS SQL Server, SQL Azure, MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
+- <b>MySQL, MSSQL, Mongo DB, PostgreSQL, Oracle MySQL</b>
+- <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
+- <b>Web services</b> : WSDL, SOAP, JSON0
+- <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
+
+
 - <b>Front-end</b> : Vuejs | Reactjs | Angular | Bootstrap
 - <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL
