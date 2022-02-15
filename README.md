@@ -27,12 +27,6 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
 - <b>Web services</b> : WSDL, SOAP, JSON0
 - <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
-
-
-- <b>Front-end</b> : Vuejs | Reactjs | Angular | Bootstrap
-- <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL
-- <b>CMS</b> : Wordpress | Shopify
 - Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
 #### Mobile Application Development
 - Android, iOS, iPad (Java, Kotlin, Swift, Objective-C)
