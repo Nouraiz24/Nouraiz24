@@ -29,10 +29,13 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 - <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
 - <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
 #### Mobile Application Development
-- Android, iOS, iPad (Java, Kotlin, Swift, Objective-C)
-- Flutter/Dart
-- React Native. Ionic
-- SQLite, Google Firebase
+
+- <b>Swift, Objective-C, Java, Xcode, Android Studio</b>
+- <b>React Native, Ionic Framework, Xamarin, Flutter, Kotlin</b>
+- <b>Cocoa Touch, AVFoundation, CoreImage, CoreData, MapKit, SpriteKit, CloudKit, Core Audio, CoreMIDI</b>
+- <b>Android SDK, Android NDK, SQLite</b>
+- <b>JUnit, Mockito, Robolectric</b>
+- <b>MVVM, MVP</b>
 
 ### Skills and Tools:
 
