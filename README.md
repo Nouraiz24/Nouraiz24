@@ -67,6 +67,6 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Native1224&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
-</p>
+</p> -->
