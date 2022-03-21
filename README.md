@@ -62,14 +62,17 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&theme=radical" alt="my github stats" height="190px" />
     &nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Native1224&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
-</p>
+</p> -->
+
+<img src="https://github.com/Native1224/Native1224/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
