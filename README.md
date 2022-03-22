@@ -71,7 +71,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
 </p> -->
 
-<img src="https://github.com/Native1224/Native1224/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+<img src="https://github.com/Native1224/Native1224/native1224.gif" width="700">
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
