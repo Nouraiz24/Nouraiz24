@@ -75,6 +75,8 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <img src="https://github.com/Native1224/Native1224/blob/main/native1224.gif" width="700">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fabpot&theme=jolly" width="700">
+
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
