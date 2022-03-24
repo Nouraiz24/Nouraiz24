@@ -75,7 +75,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <img src="https://github.com/Native1224/Native1224/blob/main/native1224.gif" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fabpot&theme=jolly" width="700">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabpot&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
