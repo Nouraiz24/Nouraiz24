@@ -78,5 +78,5 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![native1224 snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![fabpot snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
