@@ -62,7 +62,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<!-- ## GitHub Stats
+## GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&theme=radical" alt="my github stats" height="190px" />
@@ -73,12 +73,11 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
 </p> -->
 
-<img src="https://github.com/Native1224/Native1224/blob/main/native1224.gif" width="700">
+<!-- <img src="https://github.com/Native1224/Native1224/blob/main/native1224.gif" width="700"> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabpot&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabpot&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-### Watch my contribution graph get eaten by the snake 🐍
+<!-- ### Watch my contribution graph get eaten by the snake 🐍 -->
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![native1224 snake gif](https://github.com/Native1224/Native1224/blob/main/native.svg)
- -->
+<!-- ![native1224 snake gif](https://github.com/Native1224/Native1224/blob/main/native.svg) -->
