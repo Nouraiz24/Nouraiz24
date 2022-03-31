@@ -62,7 +62,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&theme=radical" alt="my github stats" height="190px" />
@@ -81,4 +81,4 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![native1224 snake gif](https://github.com/Native1224/Native1224/blob/main/native.svg)
-
+ -->
