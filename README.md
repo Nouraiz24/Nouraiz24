@@ -64,6 +64,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <!-- ## GitHub Stats -->
 
+<!-- #Github -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&theme=radical" alt="my github stats" height="190px" />
     &nbsp;
