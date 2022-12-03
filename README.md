@@ -9,11 +9,11 @@
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
-Deep understanding of Mathematics and programming algorithm.<br>
-6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
-I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an honest and superior senior full stack developer?<br>
-Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
+Deep understanding of Mathematics and programming algorithms.<br>
+13+ years of development experience on projects ranging from small-size applications to complex enterprise solutions are taken.<br>
+I can't acclimate with 99. (9)%, Only by sending 100% perfect projects to my Clients!<br>
+Are you looking for an honest and superior senior full-stack developer?<br>
+Please contact me, and I will do it for you ASAP and do my best to create a "Best Quality" project for my customers.
 </p>
 
 
