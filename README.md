@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=fabpot&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Expert Level Full-Stack Web & Mobile App Developer
+## Expert Level Full-Stack Deveoper / System Administrator
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
